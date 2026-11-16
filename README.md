@@ -2,7 +2,7 @@
 
 <h1 align="center">Space-X: Self-Evolving Spatial Agents Weaving Clues into Evidence Chains</h1>
 
-<p align="center"><a href="https://github.com/zzj-eric/Space-X-Project">Project page</a> · <a href="">Paper</a> · <a href="CASES.md">Case gallery</a></p>
+<p align="center"><a href="https://zzj-eric.github.io/Space-X-Project/">Project page</a> · <a href="">Paper</a> · <a href="CASES.md">Case gallery</a></p>
 
 
 **From seeing to solving.** Space-X evolves the tools **and the connections between their outputs**, turning observations, geometry and memory into evidence that supports spatial answers.
