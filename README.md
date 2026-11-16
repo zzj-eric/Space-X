@@ -5,8 +5,6 @@
 <p align="center"><a href="https://github.com/zzj-eric/Space-X-Project">Project page</a> · <a href="">Paper</a> · <a href="CASES.md">Case gallery</a></p>
 
 
-<p align="center"><a href="CASES.md">Case gallery</a></p>
-
 **From seeing to solving.** Space-X evolves the tools **and the connections between their outputs**, turning observations, geometry and memory into evidence that supports spatial answers.
 
 ## 🚀 Todo List
