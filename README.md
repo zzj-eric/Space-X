@@ -10,8 +10,8 @@
 ## 🚀 Todo List
 
 - [x] Project page
-- [x] Paper release
 - [x] Case demonstrations
+- [ ] Paper release (Arxiv on hold ...)
 - [ ] Code organization and release
 
 ## 📄 Abstract
